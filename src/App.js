@@ -1,4 +1,6 @@
 import React from 'react';
+import questions from './data';
+import Question from './components/question';
 
 const App = () => {
   return (
